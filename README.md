@@ -1,5 +1,7 @@
 ## Figma URL
 
+This project was built by following the **React course** by **John Smilga** on Udemy.
+
 [Accordion](https://www.figma.com/file/TAwJ3kWOqkw0o8UVtAMOHO/Accordion?node-id=0%3A1&t=1YEti8xBykw69tBH-1)
 
 ## Steps
